@@ -14,26 +14,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello!I'm a MEAN & AWS Stack Developer  👋
+## Hello!I'm a FullStack developer with MEAN & AWS Stack 👋
 
-**Currently** Working as a FullStack engineer with MEAN and AWS stack  
+**Tools:**  
+- 🅰️ Angular  
+- 📘 TypeScript  
+- 🟢 Node.js  
+- 🐘 PostgreSQL  
+- 🍃 MongoDB  
+- ⚡ Express  
+- 🏗️ NestJS  
+- 🤖 GitHub Copilot  
+- 🖱️ Cursor IDE
+---
 
-**Tools**:
-- Angular
-- Typescript
-- NodeJS
-- PostgreSQL
-- MongoDB
-- Express
-- NestJS
-- Github Copilot
-- Cursor IDE
 
-**Hobbies**:
-- Cybersecurity
-- Python Development
-- AI assisted development
-- Formula 1
-- Calisthenics
+**Hobbies:**  
+- 🔒 Cybersecurity
+- 🕵️ Digital / Computer Forensics
+- 🐍 Python Development  
+- 🤖 AI Assisted Development  
+- 🏎️ Formula 1  
+- 💪 Calisthenics
+---
 
-**Reach me:** [LinkedIn Profile](https://www.linkedin.com/in/victoria-butrym-35408b1a1/)
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/victoria-butrym-35408b1a1/)
