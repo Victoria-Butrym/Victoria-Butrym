@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 - Python Development
 - AI assisted development
 - Formula 1
+- Calisthenics
 
 **Reach me:** [LinkedIn Profile](https://www.linkedin.com/in/victoria-butrym-35408b1a1/)
